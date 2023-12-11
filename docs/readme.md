@@ -8,6 +8,30 @@ Este projeto busca implementar uma agenda de contatos que possa ser utilizada em
 
 ### Requisito RU1 - banco de dados de agenda telefônica e de endereço
 
+### Requisito RU2 - Prenome
+
+### Requisito RU3 - Nome do meio
+
+### Requisito RU4 - Sobrenome
+
+### Requisito RU5 - Celular
+
+### Requisito RU6 - Fixo
+
+### Requisito RU7 - Estado
+
+### Requisito RU8 - Município
+
+### Requisito RU9 - Logradouro
+
+### Requisito RU10 - Nome do Logradouro
+
+### Requisito RU11 - Número
+
+### Requisito RU12 - Complemento
+
+### Requisito RU13 - Fixo
+
 ## Requisitos de sistema
 
 ### Requisito RS1 - biblioteca
