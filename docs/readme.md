@@ -32,7 +32,6 @@ O banco de
 
 ### Requisito RU12 - Complemento
 
-### Requisito RU13 - Fixo
 
 ## Requisitos de Sistema
 
