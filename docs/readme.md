@@ -42,7 +42,7 @@ O software deve fornecer funções Python com uma biblioteca de código.
 
 O banco de dados deve ser armazenado em um arquivo.
 
-## Requisito RS2 - inserção de dados
+### Requisito RS2 - inserção de dados
 
 A biblioteca deve oferecer uma função para inserção de dados.
 
@@ -50,6 +50,10 @@ A biblioteca deve oferecer uma função para inserção de dados.
 
 A biblioteca deve oferecer uma função para consulta de dados.
 
-## Requisito RS4 - atualização de dados
+### Requisito RS4 - atualização de dados
 
-A biblioteca deve oferecer
+A biblioteca deve oferecer uma função para atualização de dados.
+
+###  Requisito RS5 - exclusão de dados
+
+A biblioteca deve oferecer uma função para exclusão de dados.
