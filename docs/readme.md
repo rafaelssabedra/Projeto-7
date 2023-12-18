@@ -34,7 +34,7 @@ O banco de
 
 ### Requisito RU13 - Fixo
 
-## Requisitos de sistema
+## Requisitos de Sistema
 
 ### Requisito RS1 - biblioteca
 
